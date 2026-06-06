@@ -22,7 +22,7 @@ By [Subham Sekhar Sahoo](https://s-sahoo.github.io), [Justin Deschenaux](https:/
   <img src="https://github.com/s-sahoo/duo/blob/gh-pages/static/images/duo_schematic.png" width="60%">
 </div>
 
-## [Chapter II: Ψ-Samplers and Efficient Curriculum (ICLR 2026)](https://arxiv.org/abs/2602.21185)
+## [Chapter II: Ψ-Samplers (ICLR 2026)](https://arxiv.org/abs/2602.21185)
 By  [Justin Deschenaux](https://jdeschena.com), [Caglar Gulcehre](https://www.caglar.ai),
 [Subham Sekhar Sahoo](https://s-sahoo.github.io)
 
@@ -150,7 +150,7 @@ This repository was built off of [MDLM's Github repository](https://github.com/k
 
 @inproceedings{
     deschenaux2026the,
-    title={The Diffusion Duality, Chapter {II}: \${\textbackslash}Psi\$-Samplers and Efficient Curriculum},
+    title={The Diffusion Duality, Chapter {II}: \${\textbackslash}Psi\$-Samplers},
     author={Justin Deschenaux and Caglar Gulcehre and Subham Sekhar Sahoo},
     booktitle={The Fourteenth International Conference on Learning Representations},
     year={2026},
