@@ -7,7 +7,7 @@ wandb/
 watch_folder/
 notes.md
 grid_search.sh
-*.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
